@@ -3,8 +3,9 @@
 This repository will contain information about my LinkedIn post series on Automated Machine Learning!
 
 
-Follow me on: 
-The collection of Linkedin Posts
+Follow me on: https://www.linkedin.com/in/puspanjalisarma/
+
+𝗧𝗵𝗲 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻 𝗼𝗳 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗣𝗼𝘀𝘁𝘀: 
 
 | Sl. No          | Topic         | Post Link         |
 | ----------------|:-------------:| -----------------:|
@@ -76,4 +77,4 @@ The collection of Linkedin Posts
 
 
 
-Thanks for Reading!
+Thanks for visiting!
