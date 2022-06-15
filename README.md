@@ -9,17 +9,17 @@ Follow me on: https://www.linkedin.com/in/puspanjalisarma/
 
 | Sl. No          | Topic         | Post Link         |
 | ----------------|:-------------:| -----------------:|
-| 1               | Introduction  | shorturl.at/juDIR |
-| 2               | PyCaret       |  shorturl.at/oyJTZ|
-| 3               | are neat      |    $1             |
-| 4               | are neat      |    $1             |
-| 5               | are neat      |    $1             |
-| 6               | are neat      |    $1             |
-| 7               | are neat      |    $1             |
-| 8               | are neat      |    $1             |
-| 9               | are neat      |    $1             |
-| 10              | are neat      |    $1             |
-| 11              | are neat      |    $1             |
+| 1               | Introduction    | shorturl.at/juDIR |
+| 2               | PyCaret         |  shorturl.at/oyJTZ|
+| 3               | Auto-ViML       |    $1             |
+| 4               | Auto-Keras      |    $1             |
+| 5               | TransmogrifAI   |    $1             |
+| 6               | MLBox           |    $1             |
+| 7               | H2O AutoML      |    $1             |
+| 8               | HyperoptSklearn |    $1             |
+| 9               | AutoGluon       |    $1             |
+| 10              | TPOT            |    $1             |
+| 11              | Cloud AutoML    |    $1             |
 | 12              | are neat      |    $1             |
 | 13              | are neat      |    $1             |
 | 14              | are neat      |    $1             |
