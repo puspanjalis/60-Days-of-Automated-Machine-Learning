@@ -10,7 +10,7 @@ Follow me on: https://www.linkedin.com/in/puspanjalisarma/
 | Sl. No          | Topic         | Post Link         |
 | ----------------|:-------------:| -----------------:|
 | 1               | Introduction  | shorturl.at/juDIR |
-| 2               | centered      |    $12            |
+| 2               | PyCaret       |  shorturl.at/oyJTZ|
 | 3               | are neat      |    $1             |
 | 4               | are neat      |    $1             |
 | 5               | are neat      |    $1             |
