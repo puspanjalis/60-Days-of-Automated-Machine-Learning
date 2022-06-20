@@ -7,8 +7,8 @@ Follow me on: https://www.linkedin.com/in/puspanjalisarma/
 
 𝗧𝗵𝗲 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻 𝗼𝗳 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗣𝗼𝘀𝘁𝘀: 
 
-| Sl. No          | Topic         | Post Link         |
-| ----------------|:-------------:| -----------------:|
+| Sl. No          | Topic           | Post Link         |
+| ----------------|:---------------:| -----------------:|
 | 1               | Introduction    | shorturl.at/juDIR |
 | 2               | PyCaret         |  shorturl.at/oyJTZ|
 | 3               | Auto-ViML       |    $1             |
@@ -20,8 +20,8 @@ Follow me on: https://www.linkedin.com/in/puspanjalisarma/
 | 9               | AutoGluon       |    $1             |
 | 10              | TPOT            |    $1             |
 | 11              | Cloud AutoML    |    $1             |
-| 12              | are neat      |    $1             |
-| 13              | are neat      |    $1             |
+| 12              | Auto-Sklearn    | shorturl.at/iluM4 |
+| 13              | are neat        |    $1             |
 | 14              | are neat      |    $1             |
 | 15              | are neat      |    $1             |
 | 16              | are neat      |    $1             |
